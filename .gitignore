@@ -1,0 +1,19 @@
+# Geheime/lokale bestanden nooit uploaden
+.env
+*.env
+.prijsfout_bot
+prijsfout.db
+*.db
+*.sqlite
+*.sqlite3
+
+# Python / lokale omgeving
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Logs en backups
+*.log
+*backup*
+*_backup.*
